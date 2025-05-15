@@ -1,0 +1,2 @@
+# Text-Based Emotion Detection Using NLP Techniques
+This project leverages Natural Language Processing (NLP) techniques to detect and classify emotions in textual data. Using a machine learning pipeline with CountVectorizer and LogisticRegression, the model is trained on labeled text samples to identify emotions such as happiness, sadness, anger, and fear. The project includes a Streamlit-based web app for real-time emotion prediction from user input, offering a simple and interactive user experience.
